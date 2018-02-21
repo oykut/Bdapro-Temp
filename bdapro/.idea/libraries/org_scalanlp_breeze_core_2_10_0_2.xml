@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.scalanlp:breeze-core_2.10:0.2" type="repository">
+    <properties maven-id="org.scalanlp:breeze-core_2.10:0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalanlp/breeze-core_2.10/0.2/breeze-core_2.10-0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.0/scala-library-2.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.2/paranamer-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

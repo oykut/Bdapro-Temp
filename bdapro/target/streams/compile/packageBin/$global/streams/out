@@ -1,0 +1,211 @@
+[0m[[0minfo[0m] [0mPackaging /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/spark-adaoptimizer_2.11-0.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NadamUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NadamUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdagradUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdagradUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setMomentumFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setMomentumFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$6.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$5.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovUpdater.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setBeta$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setBeta$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdagradUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdagradUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$6.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setMomentumFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setMomentumFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$6.class[0m
+[0m[[0mdebug[0m] [0m	TestAdaOptimizer$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestAdaOptimizer$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$5.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$6.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AMSGradUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AMSGradUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setBetaS$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setBetaS$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/classification/LogisticRegressionWithAdaSGD.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/classification/LogisticRegressionWithAdaSGD.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NadamUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NadamUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/classification/LogisticRegressionWithAdaSGD$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/classification/LogisticRegressionWithAdaSGD$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/classification[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/classification[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setMiniBatchFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$5.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$1$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$1$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$$anonfun$runMiniBatchSGD$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/RMSpropUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/RMSpropUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$runMiniBatchSGD$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxGradientDescent$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxGradientDescent$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setMomentumFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setMomentumFraction$1.class[0m
+[0m[[0mdebug[0m] [0m	TestAdaOptimizer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestAdaOptimizer.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$2$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$2$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdadeltaUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdadeltaUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setRegParam$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setNumIterations$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdamaxUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdamaxUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/classification/SVMWithAdaSGD.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/classification/SVMWithAdaSGD.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$5.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setStepSize$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$runMiniBatchSGD$4.class[0m
+[0m[[0mdebug[0m] [0m	TestLoopAdaOptimizer$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestLoopAdaOptimizer$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AMSGradUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AMSGradUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/MomentumGradientDescent$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/SimpleUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/SimpleUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/NesterovGradientDescent$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/classification/SVMWithAdaSGD$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/classification/SVMWithAdaSGD$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/AdaptiveUpdater.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/AdaptiveUpdater.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$runMiniBatch$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/RMSpropUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/RMSpropUpdater$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TestAdaOptimizer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/TestAdaOptimizer$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Aitor/Desktop/brapro - tets/target/scala-2.11/classes/org/apache/spark/mllib/optimization/GradientDescentAlg$$anonfun$setConvergenceTol$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
